@@ -22,19 +22,19 @@
     "url": "https://guangdouzi.serv00.net",
     "icon": "https://icons.duckduckgo.com/ip3/guangdouzi.serv00.net.ico",
     "slug": "serv00",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 702,
-    "timeDay": 804,
-    "timeWeek": 746,
-    "timeMonth": 702,
-    "timeYear": 702,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 697,
+    "timeDay": 710,
+    "timeWeek": 730,
+    "timeMonth": 697,
+    "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-10-30": 0
+      "2024-10-30": 12
     }
   },
   {
