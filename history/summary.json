@@ -22,7 +22,7 @@
     "url": "https://guangdouzi.serv00.net",
     "icon": "https://icons.duckduckgo.com/ip3/guangdouzi.serv00.net.ico",
     "slug": "serv00",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 719,
     "timeMonth": 688,
     "timeYear": 688,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-31": 0
+    }
   },
   {
     "name": "Plan B",
