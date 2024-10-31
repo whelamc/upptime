@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 155,
-    "timeWeek": 188,
-    "timeMonth": 187,
-    "timeYear": 187,
+    "time": 190,
+    "timeDay": 222,
+    "timeWeek": 189,
+    "timeMonth": 190,
+    "timeYear": 190,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/guangdouzi.serv00.net.ico",
     "slug": "serv00",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 697,
-    "timeDay": 710,
-    "timeWeek": 730,
-    "timeMonth": 697,
-    "timeYear": 697,
-    "dailyMinutesDown": {
-      "2024-10-30": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 688,
+    "timeDay": 578,
+    "timeWeek": 719,
+    "timeMonth": 688,
+    "timeYear": 688,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plan B",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 761,
-    "timeDay": 669,
-    "timeWeek": 405,
-    "timeMonth": 761,
-    "timeYear": 761,
+    "time": 723,
+    "timeDay": 227,
+    "timeWeek": 390,
+    "timeMonth": 723,
+    "timeYear": 723,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 163,
-    "timeWeek": 198,
-    "timeMonth": 209,
-    "timeYear": 209,
+    "time": 210,
+    "timeDay": 218,
+    "timeWeek": 194,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   }
 ]
