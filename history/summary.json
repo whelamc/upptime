@@ -22,7 +22,7 @@
     "url": "https://guangdouzi.serv00.net",
     "icon": "https://icons.duckduckgo.com/ip3/guangdouzi.serv00.net.ico",
     "slug": "serv00",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 2084,
     "timeYear": 1947,
     "dailyMinutesDown": {
+      "2024-11-19": 0,
       "2024-10-31": 112
     }
   },
