@@ -4,19 +4,19 @@
     "url": "https://www.whelam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.whelam.com.ico",
     "slug": "my-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 166,
-    "timeWeek": 247,
-    "timeMonth": 223,
+    "timeDay": 156,
+    "timeWeek": 234,
+    "timeMonth": 220,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 31
     }
   },
   {
@@ -49,18 +49,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/webchoi.eu.org.ico",
     "slug": "plan-b",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 648,
+    "uptime": "99.99%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 649,
     "timeDay": 298,
     "timeWeek": 933,
     "timeMonth": 774,
     "timeYear": 643,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 31
     }
   },
   {
@@ -68,19 +68,19 @@
     "url": "https://perfume.whelam.com",
     "icon": "https://icons.duckduckgo.com/ip3/perfume.whelam.com.ico",
     "slug": "perfume-ranking",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 121,
-    "timeWeek": 199,
-    "timeMonth": 203,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 196,
+    "timeDay": 141,
+    "timeWeek": 197,
+    "timeMonth": 202,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 31
     }
   }
 ]
