@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.whelam.com.ico",
     "slug": "my-page",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "91.38%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.98%",
     "time": 211,
     "timeDay": 136,
     "timeWeek": 218,
     "timeMonth": 216,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-11-18": 31
+      "2025-11-18": 124
     }
   },
   {
@@ -48,19 +48,19 @@
     "url": "https://webchoi.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/webchoi.eu.org.ico",
     "slug": "plan-b",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
-    "time": 647,
-    "timeDay": 313,
-    "timeWeek": 812,
-    "timeMonth": 747,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "91.39%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.98%",
+    "time": 646,
+    "timeDay": 326,
+    "timeWeek": 772,
+    "timeMonth": 737,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2025-11-18": 31
+      "2025-11-18": 124
     }
   },
   {
@@ -69,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/perfume.whelam.com.ico",
     "slug": "perfume-ranking",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "91.38%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.98%",
     "time": 196,
     "timeDay": 130,
     "timeWeek": 187,
     "timeMonth": 199,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-11-18": 31
+      "2025-11-18": 124
     }
   }
 ]
