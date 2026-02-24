@@ -4,7 +4,7 @@
     "url": "https://www.whelam.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.whelam.com.ico",
     "slug": "my-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 179,
     "timeYear": 230,
     "dailyMinutesDown": {
+      "2026-02-24": 0,
       "2025-11-18": 137
     }
   },
