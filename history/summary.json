@@ -14,7 +14,7 @@
     "timeDay": 198,
     "timeWeek": 140,
     "timeMonth": 168,
-    "timeYear": 210,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2025-11-18": 137,
       "2026-02-24": 54,
@@ -26,16 +26,16 @@
     "url": "https://guangdouzi.serv00.net",
     "icon": "https://icons.duckduckgo.com/ip3/guangdouzi.serv00.net.ico",
     "slug": "serv00",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 763,
-    "timeDay": 533,
-    "timeWeek": 753,
-    "timeMonth": 807,
+    "timeDay": 589,
+    "timeWeek": 739,
+    "timeMonth": 802,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2025-07-15": 20,
@@ -65,7 +65,8 @@
       "2026-04-26": 59,
       "2026-04-25": 15,
       "2026-05-13": 5,
-      "2026-05-12": 18
+      "2026-05-12": 18,
+      "2026-06-16": 0
     }
   },
   {
@@ -83,7 +84,7 @@
     "timeDay": 356,
     "timeWeek": 315,
     "timeMonth": 298,
-    "timeYear": 575,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2025-11-18": 124
     }
