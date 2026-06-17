@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 216,
-    "timeDay": 198,
-    "timeWeek": 140,
+    "timeDay": 143,
+    "timeWeek": 129,
     "timeMonth": 168,
     "timeYear": 209,
     "dailyMinutesDown": {
@@ -26,16 +26,16 @@
     "url": "https://guangdouzi.serv00.net",
     "icon": "https://icons.duckduckgo.com/ip3/guangdouzi.serv00.net.ico",
     "slug": "serv00",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
-    "time": 763,
-    "timeDay": 589,
-    "timeWeek": 739,
-    "timeMonth": 802,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "90.55%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.74%",
+    "time": 764,
+    "timeDay": 743,
+    "timeWeek": 751,
+    "timeMonth": 801,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2025-07-15": 20,
@@ -66,7 +66,8 @@
       "2026-04-25": 15,
       "2026-05-13": 5,
       "2026-05-12": 18,
-      "2026-06-16": 0
+      "2026-06-17": 127,
+      "2026-06-16": 9
     }
   },
   {
@@ -80,11 +81,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 559,
-    "timeDay": 356,
-    "timeWeek": 315,
-    "timeMonth": 298,
-    "timeYear": 574,
+    "time": 558,
+    "timeDay": 190,
+    "timeWeek": 294,
+    "timeMonth": 295,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2025-11-18": 124
     }
@@ -101,8 +102,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 194,
-    "timeDay": 212,
-    "timeWeek": 147,
+    "timeDay": 110,
+    "timeWeek": 136,
     "timeMonth": 171,
     "timeYear": 192,
     "dailyMinutesDown": {
